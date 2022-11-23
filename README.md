@@ -22,7 +22,7 @@ Script sırasında size node isminiz (NODENAME) sorulacak!
 
 
 ```
-wget -O GTP.sh https://raw.githubusercontent.com/Nodeist/Kurulumlar/main/Gitopia/GTP && chmod +x GTP.sh && ./GTP.sh
+wget -O GTP.sh https://raw.githubusercontent.com/sinirlibiber/testnetler/main/gitopia && chmod +x GTP.sh && ./GTP.sh
 ```
 
 ### Kurulum Sonrası Adımlar
